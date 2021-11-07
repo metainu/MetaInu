@@ -4,4 +4,4 @@
 
 Initial Token Burn = 500 T
 
-Curculation Supply = 100 T </b>
+Circulating Supply = 100 T </b>
