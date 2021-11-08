@@ -1,6 +1,6 @@
-### ThwMeTaInu Token.
+### TheMetaInu Token.
 
-![ThwMeTaInu](/img/32x32-logo.png)
+![TheMetaInu](/img/32x32-logo.png)
 
 <b> Total Supply = 1000 T
 
