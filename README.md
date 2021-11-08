@@ -1,6 +1,8 @@
-### MeTaInu Token.
+### ThwMeTaInu Token.
 
-<b> Total Supply = 1000 T 
+![ThwMeTaInu](/img/32x32-logo.png)
+
+<b> Total Supply = 1000 T
 
 Initial Token Burn = 500 T
 
